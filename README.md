@@ -1,7 +1,7 @@
 # OnboardAssistant
 Project: Onboard Assistant  This project aims to develop a user-friendly onboard assistant that simplifies the onboarding process for new users. With the help of deep chat the assistant will guide new users through the app's features, provide helpful tips, and answer common questions. 
 
-Technologies:<img width="1470" alt="Screenshot 2023-12-01 at 1 06 22 PM" src="https://github.com/harshithamys/OnboardAssistant/assets/123874269/ce8f4ff5-39a2-424d-aab9-cec8fd9bc9e8">
+Technologies:
 
 
 Front-end: React
@@ -9,6 +9,10 @@ Data Format: JSON
 Back-end: Node.js
 Development Environment: Codebox
 Features:
+
+![WhatsApp Image 2023-12-01 at 1 26 30 PM](https://github.com/harshithamys/OnboardAssistant/assets/123874269/b0e11594-98d5-47d7-80d0-89f24ebc1a07)
+
+![WhatsApp Image 2023-12-01 at 1 26 45 PM](https://github.com/harshithamys/OnboardAssistant/assets/123874269/7a5144b3-91ff-4b36-9a37-37c38b5c59d3)
 
 
 
